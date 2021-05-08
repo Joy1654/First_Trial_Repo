@@ -16,6 +16,8 @@ public class Question__28 {
         System.out.println(Triplet(array,(Input.nextInt())));
         long END=System.nanoTime();
         System.out.println(END-start);
+        System.out.println("Trying Github");
+        System.out.println("Trying Git");
     }
 
     public static boolean Triplet(int[] array,int k) {
